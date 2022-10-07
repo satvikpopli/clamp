@@ -11,4 +11,4 @@ where,
 
 The method used for calculating the preferred value is as explained here: <https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/>.
 
-Try out the tool : <https://satvikpopli.github.io/clamp-calculator/>.
+Try out the tool : <https://satvikpopli.github.io/clamp/>.
